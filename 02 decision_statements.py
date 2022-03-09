@@ -33,7 +33,7 @@
 
 value1=input("Please enter any value:\n")
 value2=input("Please enter another number:\n")
-print("")
+print("") 
 
 print("You have entered  " +  str(value1)+ " and " + str(value2))
 print("")
