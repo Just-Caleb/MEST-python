@@ -38,7 +38,8 @@ print("")
 print("You have entered  " +  str(value1)+ " and " + str(value2))
 print("")
 
-choice=input("Please enter 1 if you want to add\n"+" or enter 2 if you want to subtract \n"+" or enter 3 if you want to multiply\n"+"or enter 4 if you want to divide. \n")
+choice=input("Please enter 1 if you want to add\n"+" or enter 2 if you want to subtract \n"+" or enter 3 if you want to multiply\n"+" or enter 4 if you want to divide \n")
+print("")
 
 if choice == 1:
     answer=value1+value2
@@ -53,7 +54,7 @@ elif choice == 4:
     answer=value1/value2
     print("The answer is "+ str(answer))
 print("")
-print("Thank you. This is the end of the program")
+print("Thank you. This is the end of the program...")
 print("")
 
 
