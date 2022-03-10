@@ -39,5 +39,6 @@
 
 #Tuples
 my_tuple=("Hello","world","world")
-print(type(my_tuple)) #this is to find out what type of structure it is
+# print(type(my_tuple)) #this is to find out what type of structure it is
+print(my_tuple)
 
